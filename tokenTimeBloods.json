@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "token": "12345TOKEN6789",
+      "expiredAt": "2025-12-10T14:30:00.000Z"
+    },
+    {
+      "token": "ABCDE-TOKEN-BLOODS",
+      "expiredAt": "2026-01-02T07:00:00.000Z"
+    }
+  ]
+}
